@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Server-Monitor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![scrot](https://user-images.githubusercontent.com/43564300/121269274-d606a300-c8bf-11eb-814b-58babfa6ca3d.png)
 
 ## Available Scripts
 
